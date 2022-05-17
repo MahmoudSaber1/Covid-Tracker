@@ -15,7 +15,7 @@
 
 ## Performance
 
-![gtmetrix com-LatestPerformanceReportforhttpshappy-message netlify appGTmetrix](https://user-images.githubusercontent.com/67934444/168439236-8b603172-2b76-4349-a7d4-8f44f76bdb4b.png)
+![react](https://user-images.githubusercontent.com/67934444/168819726-208add18-e762-4ff1-9389-66d09c1efc0e.png)
 
 ### 🏠 [Live-Demo](https://covid-tracker-105.netlify.app/)
 
