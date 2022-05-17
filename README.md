@@ -10,8 +10,8 @@
 > 1- get All Infected 2- Get All Recovered 3- Get All Deaths in All Country's
 
 ## Screenshot
-
-![happy-message](https://user-images.githubusercontent.com/67934444/168439096-00b13e6c-8ba4-4253-8e86-a162780c58f9.png)
+![Screen-1](https://user-images.githubusercontent.com/67934444/168818692-9656b24c-a89a-4fb8-a542-f2a12246d077.png)
+![Screen-2](https://user-images.githubusercontent.com/67934444/168818700-77e64775-83d2-4d32-a9ff-f07fbb0ce651.png)
 
 ## Performance
 
