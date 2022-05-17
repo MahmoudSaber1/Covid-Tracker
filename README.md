@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Happy Message Site 👋</h1>
+<h1 align="center">Welcome to Covid-19 Tracker Site 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.1-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -17,7 +17,7 @@
 
 ![gtmetrix com-LatestPerformanceReportforhttpshappy-message netlify appGTmetrix](https://user-images.githubusercontent.com/67934444/168439236-8b603172-2b76-4349-a7d4-8f44f76bdb4b.png)
 
-### 🏠 [Live-Demo](https://happy-message.netlify.app/)
+### 🏠 [Live-Demo](https://covid-tracker-105.netlify.app/)
 
 ## Usage
 
