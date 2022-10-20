@@ -34,7 +34,7 @@ const Navbar = () => {
                                 >
                                     <span className='me-2'>Designed By</span>
                                     <a
-                                        href="https://github.com/Rogar-IQ"
+                                        href="https://github.com/MahmoudSaber1"
                                         target="_blank"
                                         className="badge bg-primary fs-6 text-decoration-none text-white"
                                         rel="noreferrer"
